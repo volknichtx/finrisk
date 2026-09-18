@@ -41,3 +41,10 @@ Thumbs.db
 TODO.md
 ToDo.md
 todo.md
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Cached data
+*.parquet
+data/cache/
