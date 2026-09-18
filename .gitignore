@@ -1,0 +1,50 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ruff / type checkers
+.ruff_cache/
+.mypy_cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local project data / caches
+.cache/
+
+
+# Local project development / TODOS
+TODO.md
+ToDo.md
+todo.md
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Cached data
+*.parquet
+data/cache/
