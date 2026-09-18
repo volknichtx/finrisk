@@ -1,7 +1,7 @@
 [project]
 name = "finrisk"
 version = "0.1.0"
-description = "Add your description here"
+description = "A financial risk analysis toolkit for portfolio metrics, risk measures, and Monte Carlo simulations."
 readme = "README.md"
 authors = [
     { name = "volknichtx", email = "volkening.maurice@gmail.com" }

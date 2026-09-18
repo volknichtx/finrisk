@@ -1,1 +1,1 @@
-""" " Return calculations and calendar alignment."""
+"""Return calculations and calendar alignment."""
