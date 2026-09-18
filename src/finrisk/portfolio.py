@@ -1,1 +1,1 @@
-"""Portfolio wights and equity-curve calcuation."""
+"""Portfolio weights and equity-curve calculations."""
