@@ -16,7 +16,10 @@ uv sync
 
 ## Usage
 
-_Not yet available._
+```bash 
+uv run streamlit run app.py
+
+```
 
 ## Development
 
