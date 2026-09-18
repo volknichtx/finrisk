@@ -27,6 +27,7 @@ dev = [
     "ruff>=0.16.8",
 ]
 
+# Linter Settings
 [tool.ruff.lint]
 extend-select = ["TID251"]
 
@@ -35,3 +36,8 @@ extend-select = ["TID251"]
 
 [tool.ruff.lint.per-file-ignores]
 "app.py" = ["TID251"]
+
+# Test Settings
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
