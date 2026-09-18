@@ -1,7 +1,6 @@
 # Before commit rules:
 # 1. Ruff check .
 # 2. Ruff format . 
-# 3. Check for trailing whitespaces 
 #
 # If you want u can also add the arg flag --fix for the checker.
 
